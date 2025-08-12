@@ -1,3 +1,3 @@
 # No whitespace after the comma or in your keyboard name!
-config COUPE
+config SHIELDS_COUPE
     def_bool $(shields_list_contains,coupe)
