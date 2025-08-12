@@ -3,7 +3,6 @@ id: coupe
 name: Coupe
 type: shield
 url: https://github.com/BobKaLonger/zmk-keyboard-coupe.git
-requires:
-  -pro_micro
+requires: [pro_micro]
 features:
   - keys
