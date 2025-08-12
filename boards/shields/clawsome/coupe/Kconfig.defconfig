@@ -1,0 +1,6 @@
+if SHIELD_COUPE
+
+config ZMK_KEYBOARD_NAME
+    default "coupe"
+
+endif
