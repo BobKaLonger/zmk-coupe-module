@@ -1,8 +1,0 @@
-manifest:
-  remotes:
-    - name: zmk-keyboards-clawsome
-      url-base: https://github.com/BobKaLonger/zmk-keyboards-clawsome/tree/main/boards/shields/clawsome
-  projects:
-    - name: coupe
-      remote: zmk-keyboards-clawsome
-      import: west.yml
