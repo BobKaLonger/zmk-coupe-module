@@ -1,0 +1,6 @@
+manifest:
+  self:
+    name: zmk-keyboard-coupe
+    path: .
+    revision: main
+    west-version: '*'
